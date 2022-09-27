@@ -1,1 +1,1 @@
-# ftlib
+# la meva libft :)
